@@ -1,0 +1,1 @@
+open,read,write,and close a file on server Javascript is a widely-used,free,and efficient programming language
